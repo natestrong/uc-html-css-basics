@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-html-language-essentials/02-html-language-essentials.iml" filepath="$PROJECT_DIR$/02-html-language-essentials/02-html-language-essentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-html-content-elements/03-html-content-elements.iml" filepath="$PROJECT_DIR$/03-html-content-elements/03-html-content-elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-html-section-elements/04-html-section-elements.iml" filepath="$PROJECT_DIR$/04-html-section-elements/04-html-section-elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-html-form-elements/05-html-form-elements.iml" filepath="$PROJECT_DIR$/05-html-form-elements/05-html-form-elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-html-media-elements/06-html-media-elements.iml" filepath="$PROJECT_DIR$/06-html-media-elements/06-html-media-elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-html-form-elements/07-html-form-elements.iml" filepath="$PROJECT_DIR$/07-html-form-elements/07-html-form-elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-html-media-elements/08-html-media-elements.iml" filepath="$PROJECT_DIR$/08-html-media-elements/08-html-media-elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-lab-01-html-for-a-blog/09-lab-01-html-for-a-blog.iml" filepath="$PROJECT_DIR$/09-lab-01-html-for-a-blog/09-lab-01-html-for-a-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-css-language-essentials/10-css-language-essentials.iml" filepath="$PROJECT_DIR$/10-css-language-essentials/10-css-language-essentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-css-basic-styles/11-css-basic-styles.iml" filepath="$PROJECT_DIR$/11-css-basic-styles/11-css-basic-styles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-css-fonts-and-text/12-css-fonts-and-text.iml" filepath="$PROJECT_DIR$/12-css-fonts-and-text/12-css-fonts-and-text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-css-box-model/13-css-box-model.iml" filepath="$PROJECT_DIR$/13-css-box-model/13-css-box-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-css-layout-techniques/14-css-layout-techniques.iml" filepath="$PROJECT_DIR$/14-css-layout-techniques/14-css-layout-techniques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-lab-02-styling-the-blog/15-lab-02-styling-the-blog.iml" filepath="$PROJECT_DIR$/15-lab-02-styling-the-blog/15-lab-02-styling-the-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html-css-basics/html-css-basics.iml" filepath="$PROJECT_DIR$/html-css-basics/html-css-basics.iml" />
+    </modules>
+  </component>
+</project>
