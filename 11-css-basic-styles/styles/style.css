@@ -1,3 +1,16 @@
 article {
-	background-color: dodgerblue;
+	border:solid 12px crimson;
+}
+
+header {
+	/*border-bottom: dotted 4px #5c5c0d;*/
+	border-bottom: dotted 4px rgb(165, 37, 53);
+}
+
+h1 {
+	color: hsl(202, 37%, 44%);
+	background: aquamarine url('ultimate.png') no-repeat center;
+	border-radius: 20px 10px;
+
+	box-shadow: 10px 2px 0 2px deeppink;
 }
