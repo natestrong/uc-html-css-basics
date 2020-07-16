@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Asleepytiming';
+    src: url("assets/Asleepytiming.otf") format('opentype');
+}
+
+article {
+    font-family: 'Epilogue', sans-serif;
+}
+
